@@ -18,21 +18,12 @@ This project is ideal for learning **image processing for autonomous driving app
 
 ---
 
-## Folder Structure
+## Requirements
 
-Lane-Marking-Detection/
-│
-├── src/
-│ ├── lane_detection.py
-│
-├── samples/
-│ └── images/ 
-│
-├── outputs/
-│ └── processed_images/ 
-│
-├── README.md
-└── requirements.txt
+- **Python 3.8 or higher**
+- **Libraries**:
+  - `opencv-python` (for image processing and lane detection)
+  - `numpy` (for numerical operations and polynomial fitting)
 
 
 
