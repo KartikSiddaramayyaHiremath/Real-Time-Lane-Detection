@@ -52,9 +52,9 @@ Morphological operations (like closing) are applied to the filtered image to red
 
 ## **Future Scope**
 
--Extend to video-based real-time detection
--Improve robustness under rain, night, and shadow conditions
--Integrate with deep learning for advanced lane classification
+- Extend to video-based real-time detection
+- Improve robustness under rain, night, and shadow conditions
+- Integrate with deep learning for advanced lane classification
 
 
 
