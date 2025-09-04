@@ -44,13 +44,13 @@ Color filtering is used to isolate white and yellow lane markings from road imag
 
 Morphological operations (like closing) are applied to the filtered image to reduce noise and fill small gaps in the detected lane regions. This ensures the lane lines appear cleaner, more continuous, and easier to detect in the next processing steps.
 
-## Applications
+## **Applications**
 
--Driver Assistance Systems (ADAS)
--Fundamentals of Autonomous Driving Vision
--Educational project for Computer Vision & OpenCV learners
+- Driver Assistance Systems (ADAS)
+- Fundamentals of Autonomous Driving Vision
+- Educational project for Computer Vision & OpenCV learners
 
-## Future Scope
+## **Future Scope**
 
 -Extend to video-based real-time detection
 -Improve robustness under rain, night, and shadow conditions
